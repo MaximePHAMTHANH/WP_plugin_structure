@@ -6,7 +6,7 @@
 function Vierge($atts, $content=null) { 
 
 
-       //Recuperation des donnes
+       //Recuperation des donnees
        if ($atts[0]=="Test"){       
        }
 
